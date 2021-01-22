@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/2xT96j0S/85+s4dG6t7SVHCGZVgZ/55t0dJjFd3nJDJ2qeQwC6VUxVXHNmIbzCnO5+N4tWAJNfvq1HgHBUfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monika\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monika\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
